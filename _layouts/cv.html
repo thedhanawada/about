@@ -8,10 +8,19 @@
         body { font-family: Arial, sans-serif; margin: 40px; }
         h1, h2, h3 { color: #333366; }
         a { color: #0066CC; }
+        footer { border-top: 1px solid #ddd; margin-top: 20px; padding-top: 20px; font-size: 0.9em; }
     </style>
 </head>
 <body>
-    <h1>{{ page.title }}</h1>
+    <h1>Welcome to {{ page.title }}'s Personal Space</h1>
     {{ content }}
+    <footer>
+        <strong>Contact:</strong> 
+        <a href="{{ page.email.url }}">{{ page.email.text }}</a> |
+        <a href="{{ page.phone.url }}">{{ page.phone.text }}</a> |
+        <a href="{{ page.github.url }}">{{ page.github.text }}</a> |
+        <a href="{{ page.linkedin.url }}">{{ page.linkedin.text }}</a> |
+        <a href="{{ page.twitter.url }}">{{ page.twitter.text }}</a>
+    </footer>
 </body>
 </html>

@@ -27,9 +27,13 @@ phone:
   text: +61478864823
 ---
 
-# Nirmala Rao Dhanawada
+# About Nirmala Rao Dhanawada
 
-{% include cv-contact.html %}
+
+"Dhanawada" – a name that resonates with heritage and tradition. In Sanskrit, "Dhana" signifies wealth, not just in material but in knowledge, experience, and values. "Wada" often refers to a residence or dwelling. Together, "Dhanawada" symbolizes a place rich in history, knowledge, and legacy. Just as the name suggests, I aim to be a repository of knowledge, experience, and values in my professional journey.
+
+
+Welcome! I'm Nirmala Rao Dhanawada, and this is a space where I share information about my professional journey, interests, and collaborations. Explore the links to know more about me and my work.
 
 <!--## Career Summary
 
@@ -147,7 +151,7 @@ Melbourne, AU
 ```
 Article No.: 56,ages 1–5
 ```
-J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
+J. Amudhavel, D. Sathian, R. S. Raghav, **About Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
 
 ## Projects
@@ -156,11 +160,11 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 A compact JavaScript library that enhances your form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission
 
 ### <sub> _Head of Technology Development_ at </sub>[**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
-Dr. Winston	Dzau, **Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
+Dr. Winston	Dzau, **About Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
 The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
 
 ### **Resident Profiles**`June 2020`
-Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
+Sewwandi Perera, **About Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 
 ### <sub>_Independent Developer_ at </sub>[**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"} Project`Ongoing Project`
