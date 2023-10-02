@@ -5,15 +5,25 @@
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        h1, h2, h3 { color: #333366; }
-        a { color: #0066CC; }
-        footer { border-top: 1px solid #ddd; margin-top: 20px; padding-top: 20px; font-size: 0.9em; }
+        body { font-family: 'Times New Roman', serif; margin: 40px; background-color: #f8f5f0; color: #3b3b3b; }
+        h1, h2, h3 { color: #2c2c2c; }
+        a { color: #0066CC; text-decoration: none; }
+        footer { border-top: 1px solid #aaa; margin-top: 20px; padding-top: 20px; font-size: 0.9em; }
+        .main-content { width: 70%; float: left; }
+        .sidebar { width: 28%; float: right; background-color: #eae6e1; padding: 10px; }
+        .clear { clear: both; }
     </style>
 </head>
 <body>
-    <h1>Welcome to {{ page.title }}'s Personal Space</h1>
-    {{ content }}
+    <h1>{{ page.title }}</h1>
+    <div class="main-content">
+        {{ content }}
+    </div>
+    <div class="sidebar">
+        <h3>Footnotes & Highlights</h3>
+        <!-- This space can be used for footnotes, references, or any highlights -->
+    </div>
+    <div class="clear"></div>
     <footer>
         <strong>Contact:</strong> 
         <a href="{{ page.email.url }}">{{ page.email.text }}</a> |
